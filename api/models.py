@@ -9,5 +9,3 @@ class Post(models.Model):
     username = models.CharField(max_length=255)
     image = models.ImageField(upload_to="image/")
 
-
-#This is a test Amin
