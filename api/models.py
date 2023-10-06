@@ -10,4 +10,4 @@ class Post(models.Model):
     image = models.ImageField(upload_to="image/")
 
 
-# testi Amin
+#This is a test Amin
